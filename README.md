@@ -42,5 +42,5 @@
 
 <hr>
 
-<p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" /></p>
+<p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api?username=rlaehgus12123&show_icons=true&theme=radical" /></p>
 <p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaehgus12123&layout=compact" /></p>
