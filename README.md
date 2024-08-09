@@ -1,6 +1,6 @@
 <h1 align="center" dir"auto"> 
   <img src="https://capsule-render.vercel.app/api?type=rect&section=header&text=%20Seunghyuk%20&color=0:7c4497,100:dc2632&textBg=true&fontColor=FFFFFF" />
-  <p align="center" dir="auto"><strong>👋안녕하세요 대한민국의 18살 개발자 입니다👋</strong></p>
+  <p align="center" dir="auto"><strong>👋안녕하세요 대한민국의 20살 개발자 입니다👋</strong></p>
  </h1>
 
 <p align="center" dir="auto"><strong>🛠저의 개발언어는 이렇습니다🛠</strong></p>
